@@ -26,3 +26,8 @@ Quick start:
 ```
 CUDA_VISIBLE_DEVICES=0 python tools/test_vgg.py --cfg experiments/GTA/test.yaml TEST.TEST_FLIP True
 ```
+Results (w.r.t mIoU)
+Source-only on Cityscapes: 27.9%
+Source-only on C-Driving: 22.5%
+STDA on Cityscapes: 45.5%
+MTDA on C-Driving: 33.2%
