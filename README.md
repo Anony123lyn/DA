@@ -23,5 +23,7 @@ Model link: https://pan.baidu.com/s/1GP-aZ7_6rQgN85Iasyc0ew  (Access code:1234)
 Please modify the settings in “experiments/GTA/test.yaml (Line21 to Line29)”, “lib/datasets/dataload.py (Line87 to Line98)”, and “tools/test_vgg.py (Line77/ to Line80)” when evaluating 
 
 our code on single-target and multi-target domain adaptation, respectively.
+
 Quick start:
+
 CUDA_VISIBLE_DEVICES=0 python tools/test_vgg.py --cfg experiments/GTA/test.yaml TEST.TEST_FLIP True
