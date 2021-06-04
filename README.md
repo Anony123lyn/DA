@@ -7,7 +7,8 @@
 # Data preparation
 You need to download the benchmark datasets, and place them in “data/Datasets/Domain Adaptation”.
 
-Download Link:
+Download Link: 
+
 GTAV: (https://download.visinf.tu-darmstadt.de/data/from_games/) 
 
 Cityscapes: (https://www.cityscapes-dataset.com/) 
