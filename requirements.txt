@@ -1,0 +1,3 @@
+opencv-python
+tqdm
+yacs>=0.1.5
