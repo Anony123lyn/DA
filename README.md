@@ -16,7 +16,7 @@ C-driving: (https://drive.google.com/drive/folders/112gXZhc_3Kxs66wWtHNY9vqsAeLX
 
 Download models and place them in “model/”.
 
-Model link: https://pan.baidu.com/s/1GP-aZ7_6rQgN85Iasyc0ew  (Access code:1234)
+Model link: https://pan.baidu.com/s/19Y40HUrwql0Q_Bk51IgK1g  (Access code:1234)
 
 Please modify the settings in “experiments/GTA/test.yaml (Line21 to Line29)”, “lib/datasets/dataload.py (Line87 to Line98)”, and “tools/test_vgg.py (Line77 to Line80)” when evaluating our code on single-target and multi-target domain adaptation, respectively.
 
